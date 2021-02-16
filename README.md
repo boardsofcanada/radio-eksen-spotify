@@ -1,4 +1,4 @@
-# radio-eksen-spotify
+# radio-to-spotify
 
 [Example playlist](https://open.spotify.com/playlist/05ywtjzHKKQtXaIcMmZs8X?si=EUPQRf_DQbS5Cn_BRdXy_Q)
 
